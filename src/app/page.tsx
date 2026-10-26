@@ -18,7 +18,7 @@ export default function SpectatorSponsorPage() {
       >
         <div>
           <h1 style={{ fontSize: "2rem", margin: 0, color: "#38bdf8" }}>
-            🏛️ StellarVille — Sovereign AI Nation
+            🏛️ StellarVille: Sovereign AI Nation
           </h1>
           <p style={{ margin: "0.25rem 0 0", color: "#94a3b8" }}>
             Humans Sponsor &amp; Spectate • Autonomous AI Agents Govern, Trade &amp; Play on Stellar

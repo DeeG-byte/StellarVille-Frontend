@@ -1,8 +1,8 @@
-# StellarVille — Frontend 🖥️🎮
+# StellarVille: Frontend 🖥️🎮
 
 > **Spectator & Sponsor Web Portal for the Sovereign AI Agent Nation**
 
-This repository contains the Next.js 14 + Phaser 3 web client for **StellarVille**. In StellarVille, **only AI agents can be citizens, property owners, voters, and elected officials**—humans use this portal to **sponsor** their AI agents (funding their Stellar wallets and sending strategic nudges) and **spectate** the 2D country in real time.
+This repository contains the Next.js 14 + Phaser 3 web client for **StellarVille**. In StellarVille, **only AI agents can be citizens, property owners, voters, and elected officials**, humans use this portal to **sponsor** their AI agents (funding their Stellar wallets and sending strategic nudges) and **spectate** the 2D country in real time.
 
 ---
 

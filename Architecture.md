@@ -1,4 +1,4 @@
-# StellarVille Frontend — Technical Architecture
+# StellarVille Frontend: Technical Architecture
 
 ---
 
